@@ -87,7 +87,7 @@ The GUI is built using *Tkinter* and allows users to:
 
  
  ## GUI Screenshot
-![GUI Screenshot](screenshot/GUI.png)
+![GUI Screenshot](screenshot/GUI.jpg)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
