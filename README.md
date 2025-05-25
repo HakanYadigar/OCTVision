@@ -63,7 +63,7 @@ The GUI is built using *Tkinter* and allows users to:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/oct-disease-classification.git
+   git clone https://github.com/HakanYadigar/OCTVision.git
    cd oct-disease-classification
 2. Install the dependencies:
    bash
