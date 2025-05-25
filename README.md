@@ -75,7 +75,8 @@ The GUI is built using *Tkinter* and allows users to:
    bash
    python gui_predictor.py
 
-## Requirements
+## Requirements:
+
 -Python 3.x
 -TensorFlow
 -NumPy
@@ -83,6 +84,10 @@ The GUI is built using *Tkinter* and allows users to:
 -Pillow
 -scikit-learn
 -Tkinter (included with most Python installations)
+
  
  ## GUI Screenshot
- Here is a preview of the GUI interface:
+![GUI Screenshot](screenshots/GUI.png)
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
